@@ -28,3 +28,5 @@ __pycache__/
 
 # images for rag_advanced
 !rag-advanced/images/*.png
+
+*.env
