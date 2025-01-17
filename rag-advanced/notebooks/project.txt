@@ -1,0 +1,7 @@
+Follow these steps to submit your assignment: 
+1. Download this file to your computer or create a new text file
+2. Paste your Weave assignment link below 
+3. Save the file with the link and upload it in the "Submit your assignment" section
+
+Link: 
+https://wandb.ai/michaelyliu6-none/rag-course/weave/compare-evaluations?evaluationCallIds=%5B%22019472a8-526d-7143-ac00-81ae50771bc4%22%2C%22019472a9-79f1-7771-b17f-57f7cebceea5%22%2C%22019472aa-b4b3-7962-8ec2-27ff7d8ffa09%22%2C%22019472ab-e513-7150-a333-3986dd15a2a7%22%2C%22019472af-7140-7981-972c-52d38162b678%22%5D&metrics=%7B%22compute_diff%22%3Atrue%2C%22compute_levenshtein%22%3Atrue%2C%22compute_rouge%22%3Atrue%2C%22compute_bleu%22%3Atrue%2C%22llm_response_scorer.score%22%3Atrue%2C%22llm_response_scorer.correct%22%3Atrue%2C%22Model%20Latency%20(avg)%22%3Atrue%2C%22Total%20Tokens%20(avg)%22%3Atrue%7D
